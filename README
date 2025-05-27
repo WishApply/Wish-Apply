@@ -1,24 +1,44 @@
-# WishApply
+<h1 align="center">✨ WishApply</h1>
+<p align="center">
+  <strong>A fast and smart way to apply for jobs on LinkedIn.</strong><br>
+  🚀 Automate your job hunt and focus on what matters!
+</p>
 
-**WishApply** is a desktop application designed to streamline the job application process on LinkedIn, enabling users to apply for multiple jobs quickly based on their predefined preferences.
+<p align="center">
+  <a href="https://github.com/WishApply/Wish-Apply/releases">
+    <img alt="Download" src="https://img.shields.io/github/v/release/WishApply/Wish-Apply?style=flat-square">
+  </a>
+  <a href="https://github.com/WishApply/Wish-Apply/blob/main/LICENSE">
+    <img alt="License" src="https://img.shields.io/github/license/WishApply/Wish-Apply?style=flat-square">
+  </a>
+</p>
+
+---
+
+## 💼 What is WishApply?
+
+**WishApply** is a desktop application designed to streamline the job application process on LinkedIn.  
+With predefined filters and automation features, it enables users to apply for multiple jobs effortlessly.
 
 ---
 
 ## 🚀 Features
 
-- **Automated Applications**  
-  Apply to multiple LinkedIn jobs with a single click.
+- ✅ **Automated Applications**  
+  Apply to multiple LinkedIn jobs with just one click.
 
-- **Smart Filters**  
-  Set keywords, location, experience level, and other criteria to match the jobs you’re looking for.
+- 🎯 **Smart Filters**  
+  Set your preferred keywords, location, experience level, and more.
 
-- **Application Tracking**  
-  Keep track of the jobs you’ve applied for to avoid duplicates and stay organized.
+- 📊 **Application Tracking**  
+  Keep a history of your applications and avoid applying twice.
 
 ---
 
 ## 📥 How to Use
 
-1. Visit the [Releases page](https://github.com/WishApply/Wish-Apply/releases).
-2. Download the latest version of the application.
-3. Follow the included instructions to install and run the app on your system.
+1. Go to the [Releases Page](https://github.com/WishApply/Wish-Apply/releases).
+2. Download the **latest version** for your platform.
+3. Follow the included instructions to install and launch the app.
+
+
